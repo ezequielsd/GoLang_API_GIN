@@ -42,8 +42,3 @@ Para compilar e rodar: go run main.go
 Para corrigir problemas de referencia de packages ou para possibilitar rodar packages fora do GO_HOME:
 
 "go mod init"
-
-
-# Script de banco
-
-Na raiz tem um arquivo chamado "scriptDb.txt" para criação da base de dados e tabela.
